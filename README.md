@@ -26,10 +26,10 @@ To analyze fraud risk, transaction behavior, and customer churn across value-bas
 - Medium and High Value customer segments show significantly higher churn, highlighting retention risk beyond fraud.
 
 ## Dashboard Preview
-![Customer Risk & Churn Dashboard](images/dashboard_overview.png)
+![Customer Risk & Churn Dashboard](credit_analytics/images/dashboard_overview.png)
 
 ### Fraud Rate KPI
-![Fraud Rate KPI](images/fraud_rate_kpi.png)
+![Fraud Rate KPI](credit_analytics/images/fraud_rate.png)
 
 ## Tools Used
 - Tableau Desktop
