@@ -25,11 +25,6 @@ To analyze fraud risk, transaction behavior, and customer churn across value-bas
 - Despite low fraud incidence, absolute fraud transaction volume remains non-trivial due to high overall transaction volume.
 - Medium and High Value customer segments show significantly higher churn, highlighting retention risk beyond fraud.
 
-## Dashboard Preview
-![Customer Risk & Churn Dashboard]
-(credit_analytics/Images/Dashboard <img width="2000" height="1600" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/cc36f2c3-db99-492c-b7e7-9443dad1839b" />
-Overview.png)
-
 ### Fraud Rate KPI
 ![Fraud Rate KPI](credit_analytics/Images/fraud_rate.png)
 
